@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/twilite/static/css/main.d1b05096.chunk.css",
+    "main.js": "/twilite/static/js/main.863a79ae.chunk.js",
+    "main.js.map": "/twilite/static/js/main.863a79ae.chunk.js.map",
+    "runtime-main.js": "/twilite/static/js/runtime-main.2860afff.js",
+    "runtime-main.js.map": "/twilite/static/js/runtime-main.2860afff.js.map",
+    "static/js/2.40c497a7.chunk.js": "/twilite/static/js/2.40c497a7.chunk.js",
+    "static/js/2.40c497a7.chunk.js.map": "/twilite/static/js/2.40c497a7.chunk.js.map",
+    "index.html": "/twilite/index.html",
+    "precache-manifest.9c5c111dfabd14431d67a050faa70387.js": "/twilite/precache-manifest.9c5c111dfabd14431d67a050faa70387.js",
+    "service-worker.js": "/twilite/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/twilite/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.40c497a7.chunk.js.LICENSE.txt": "/twilite/static/js/2.40c497a7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/twilite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2860afff.js",
+    "static/js/2.40c497a7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.863a79ae.chunk.js"
+  ]
+}
