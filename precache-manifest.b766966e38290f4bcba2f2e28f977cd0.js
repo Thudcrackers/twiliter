@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f37ba31f1c875a01b43ccba2ac3252bf",
+    "revision": "9acea2856a08b8a5d9eb8fc0d65f3f1b",
     "url": "/twilite/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twilite/static/css/2.49825876.chunk.css"
   },
   {
-    "revision": "fbd0439cbb9f102461a1",
-    "url": "/twilite/static/css/main.8bfc4e37.chunk.css"
+    "revision": "be9ba11aafe09fbd6d62",
+    "url": "/twilite/static/css/main.ede55da1.chunk.css"
   },
   {
     "revision": "d6c1ebe0d2fc44d672fc",
     "url": "/twilite/static/js/2.f68a0af0.chunk.js"
   },
   {
-    "revision": "fbd0439cbb9f102461a1",
-    "url": "/twilite/static/js/main.623dd959.chunk.js"
+    "revision": "be9ba11aafe09fbd6d62",
+    "url": "/twilite/static/js/main.5dcaff1d.chunk.js"
   },
   {
     "revision": "d775158f675d2a11abc5",

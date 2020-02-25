@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/twilite/precache-manifest.774593744d302980522b0ef3c6c098ab.js"
+  "/twilite/precache-manifest.b766966e38290f4bcba2f2e28f977cd0.js"
 );
 
 self.addEventListener('message', (event) => {

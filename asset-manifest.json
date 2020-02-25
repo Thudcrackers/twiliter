@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/twilite/static/css/main.8bfc4e37.chunk.css",
-    "main.js": "/twilite/static/js/main.623dd959.chunk.js",
-    "main.js.map": "/twilite/static/js/main.623dd959.chunk.js.map",
+    "main.css": "/twilite/static/css/main.ede55da1.chunk.css",
+    "main.js": "/twilite/static/js/main.5dcaff1d.chunk.js",
+    "main.js.map": "/twilite/static/js/main.5dcaff1d.chunk.js.map",
     "runtime~main.js": "/twilite/static/js/runtime~main.c1941d36.js",
     "runtime~main.js.map": "/twilite/static/js/runtime~main.c1941d36.js.map",
     "static/css/2.49825876.chunk.css": "/twilite/static/css/2.49825876.chunk.css",
     "static/js/2.f68a0af0.chunk.js": "/twilite/static/js/2.f68a0af0.chunk.js",
     "static/js/2.f68a0af0.chunk.js.map": "/twilite/static/js/2.f68a0af0.chunk.js.map",
     "index.html": "/twilite/index.html",
-    "precache-manifest.774593744d302980522b0ef3c6c098ab.js": "/twilite/precache-manifest.774593744d302980522b0ef3c6c098ab.js",
+    "precache-manifest.b766966e38290f4bcba2f2e28f977cd0.js": "/twilite/precache-manifest.b766966e38290f4bcba2f2e28f977cd0.js",
     "service-worker.js": "/twilite/service-worker.js",
     "static/css/2.49825876.chunk.css.map": "/twilite/static/css/2.49825876.chunk.css.map",
-    "static/css/main.8bfc4e37.chunk.css.map": "/twilite/static/css/main.8bfc4e37.chunk.css.map",
+    "static/css/main.ede55da1.chunk.css.map": "/twilite/static/css/main.ede55da1.chunk.css.map",
     "static/media/all.css": "/twilite/static/media/fa-solid-900.cdfec5cf.woff",
     "static/media/logo.svg": "/twilite/static/media/logo.5d5d9eef.svg"
   }
